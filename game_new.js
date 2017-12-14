@@ -19,6 +19,8 @@ KEY_CODES = {
 
 // adding more comments to the file
 
+// i want to check for new files
+
 KEY_STATUS = { keyDown:false };
 for (code in KEY_CODES) {
   KEY_STATUS[KEY_CODES[code]] = false;
