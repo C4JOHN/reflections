@@ -1,0 +1,6 @@
+Q: how did viewing the difference in two files helped you spot the bug that was in them?
+A: it viewing the difference between two files helped to easily spot the points of inconsistency and thus easily spot where the problem is coming from.
+
+Q: how could having easy access to the entire history of a file mmake you a more efficient programmer in the long term?
+A: Having the entire history of my files helps for easy reversal of process in event of unwanted changes.
+
